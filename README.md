@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Quick start
 Quick start options:
 - `npm i Dashboard`
-- clone the repo: `git clone `
+- clone the repo: `git clone https://github.com/apusaha10/Dashboard.git`
 ## Available Scripts
 
 In the project directory, you can run:

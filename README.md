@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Quick start
+Quick start options:
+- `npm i Dashboard`
+- clone the repo: `git clone `
 ## Available Scripts
 
 In the project directory, you can run:
